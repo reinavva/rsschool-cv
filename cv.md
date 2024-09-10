@@ -1,10 +1,11 @@
 # Anastasiya Labusova 
+ <img src="../_DSC0916.jpg" width="40%" height="40%" />
 
 ## Contact Information   
 **Phone:** *+8 033 646 25 20*  
 **E-mail:** *nastya.labusova.99@mail.ru*  
-**GitHub:** *reinavva*  
-**LinkedIn:** *Anastasiya Labusova*  
+**GitHub:** *[reinavva](https://github.com/reinavva/ "Всплывающая подсказка")*  
+**LinkedIn:** *[Anastasiya Labusova](https://www.linkedin.com/in/anastasiya-labusova-169778324/ "Всплывающая подсказка")*  
 **Minsk, Belarus**
 
 ## Resume Summary
