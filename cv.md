@@ -1,5 +1,4 @@
-# Anastasiya Labusova 
- <img src="../_DSC0916.jpg" width="40%" height="40%" />
+# Anastasiya Labusova  
 
 ## Contact Information   
 **Phone:** *+8 033 646 25 20*  
